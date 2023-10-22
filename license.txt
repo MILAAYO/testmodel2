@@ -1,0 +1,11 @@
+Model Information:
+* title:	Project Name(1)
+* source:	https://sketchfab.com/3d-models/project-name1-fdcd76548e034c28adad34d72350981c
+* author:	anna.mila.solo (https://sketchfab.com/anna.mila.solo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Project Name(1)" (https://sketchfab.com/3d-models/project-name1-fdcd76548e034c28adad34d72350981c) by anna.mila.solo (https://sketchfab.com/anna.mila.solo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
